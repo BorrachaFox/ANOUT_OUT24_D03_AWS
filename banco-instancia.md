@@ -39,4 +39,5 @@ sudo systemctl restart postgresql
 
 Você pode acessar o db usando
 
-![image](https://github.com/user-attachments/assets/1d4561ae-c418-42a4-a16e-a670eab56034)
+![image](https://github.com/user-attachments/assets/777c9e65-012c-47e2-9b5c-302d32b96159)
+
