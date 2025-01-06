@@ -13,4 +13,4 @@ Este repositório contém as etapas e recursos necessários para criar e prover 
     "password": "abcd123456"
   }
   ```
-- Link do swagger: https://davisantospb-compasscar-swagger.s3.us-east-2.amazonaws.com/index.html#tag/Users
+- Link do swagger: https://davisantospb-compasscar-swagger.s3.us-east-2.amazonaws.com/index.html
