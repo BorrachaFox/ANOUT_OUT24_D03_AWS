@@ -19,7 +19,7 @@
 ![image](https://github.com/user-attachments/assets/e89e61e2-1bac-494f-901c-2fff7b4c3d68)
 ![image](https://github.com/user-attachments/assets/bc54e509-a8f5-4a3d-abd3-6d7ef0610779)
 
-### Acesse a maquina EC2
+### 2. Acessando a maquina EC2
   
 - Instale o git, node e pm2
 
