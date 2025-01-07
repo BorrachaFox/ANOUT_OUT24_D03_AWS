@@ -1,7 +1,7 @@
 # Criando e Publicando Documentação Swagger no S3 da AWS
 ### 1. Gerando arquivo html do swagger.
 
-- Acesse a api no na rota **/api-json** e salve o conteudo em um arquivo **.json**.
+- Acesse a compasscar-api na rota **/api-json** e salve o conteudo em um arquivo **.json**.
   - use o comando **ctrl + s** para salvar o arquivo
 
   ![image](https://github.com/user-attachments/assets/33ecc19f-7160-413b-bd79-99e2554d4249)
