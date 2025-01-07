@@ -1,10 +1,10 @@
 # Criando e Publicando Documentação Swagger no S3 da AWS
-## 1. Gerando arquivo html do swagger.
+### 1. Gerando arquivo html do swagger.
 
 - Acesse a api no na rota **/api-json** e salve o conteudo em um arquivo **.json**.
   - use o comando **ctrl + s** para salvar o arquivo
 
-![image](https://github.com/user-attachments/assets/33ecc19f-7160-413b-bd79-99e2554d4249)
+  ![image](https://github.com/user-attachments/assets/33ecc19f-7160-413b-bd79-99e2554d4249)
 
 - Salve o arquivo para que possamos acesssa-lo depois.
 
@@ -15,7 +15,7 @@
   - Instale a biblioteca redoc-cli: ```npm install -g redoc-cli```
   - Converta o arquivo .json para .html: ```redoc-cli bundle -o index.html swagger.json```
 
-![image](https://github.com/user-attachments/assets/3c534963-3fc1-40f2-8083-7ff1a99c7da1)
+  ![image](https://github.com/user-attachments/assets/3c534963-3fc1-40f2-8083-7ff1a99c7da1)
 
 ## 2. Publicando no S3 da AWS
 - Acesse o console da AWS e busque por S3.
@@ -57,6 +57,7 @@ Pronto seu bucket foi criado, agora vamos adicionar o arquivo index.html que ger
 
 ![image](https://github.com/user-attachments/assets/41586c07-2074-402f-8c1b-28b1b2c791e9)
 ![image](https://github.com/user-attachments/assets/77eac163-ef5a-4d3c-8e7b-be5e357fdef1)
+
 - Após adicionar o arquivo index.html, clique em carregar.
 
 ![image](https://github.com/user-attachments/assets/bf0b7bff-641d-4d99-bcfd-b7de1c0c93ec)
